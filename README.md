@@ -61,6 +61,9 @@ Comprobar mediante el uso del analisis de circuitos por superposición, si los r
   
   4. RESPUESTAS A INTERROGANTES
  
+ ![](https://user-images.githubusercontent.com/84397282/125565298-4e9c0af1-b01a-4c65-b9a2-8dc75af569c5.jpg)
+ 
+ ![](https://user-images.githubusercontent.com/84397282/125565296-e6184de2-5400-400c-b2de-780c7aecb123.jpg)
 
   5. VIDEO
 
