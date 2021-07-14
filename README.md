@@ -11,22 +11,27 @@
 
 3.1 MATERIALES
     
-    -Fuentes de voltaje CD
+   -Fuentes de voltaje CD
     
-    -Multimetros digitales
+   -Multimetros digitales
     
-    -Resistor 1Kohm
+   -Resistor 1Kohm
     
-    -Resistor 2.2 kohm
+   -Resistor 2.2 kohm
     
-    -Resistor 820 ohm
+   -Resistor 820 ohm
     
-    -Resistor 470 ohm
+   -Resistor 470 ohm
     
-    -Protoboard
+   -Protoboard
   
 3.2 PROCEDIMIENTO
   
+  ![](https://user-images.githubusercontent.com/84397282/125540678-6341602f-038f-44b8-9c64-dc0907ef0b2e.jpg)
+  
+  ![](https://user-images.githubusercontent.com/84397282/125540682-d411c0f8-3656-4577-a596-ec62415896d2.jpg)
+  
+  ![](https://user-images.githubusercontent.com/84397282/125540683-adf74240-bf9c-4779-bd9e-e9e487f0bf2c.jpg)
   
   
   
