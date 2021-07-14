@@ -60,6 +60,7 @@ Comprobar mediante el uso del analisis de circuitos por superposición, si los r
   
   
   4. RESPUESTAS A INTERROGANTES
+ 
 
   5. VIDEO
 
