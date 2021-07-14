@@ -9,6 +9,14 @@
 
   3. EXPLICACION DEL PROCEDIMIENTO
 
+![](https://user-images.githubusercontent.com/84998013/125549497-159dcb2f-81cb-4217-a720-61f81a577512.png)
+
+![](https://user-images.githubusercontent.com/84998013/125549588-3b177487-1a57-404f-a6d2-5d18f09cb362.png)
+
+
+![](https://user-images.githubusercontent.com/84998013/125549588-3b177487-1a57-404f-a6d2-5d18f09cb362.png)
+
+
 3.1 MATERIALES
     
    -Fuentes de voltaje CD
