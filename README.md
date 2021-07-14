@@ -22,7 +22,7 @@
 
 - Para calcular el voltaje con el teorema de superposicion  se reemplaza la fuente de voltaje por un cortocircuito 
 
--El resultado final es la suma de los resultados individuales.
+- El resultado final es la suma de los resultados individuales.
 
 3.1 MATERIALES
     
