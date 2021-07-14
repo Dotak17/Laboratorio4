@@ -2,14 +2,15 @@
 
   1. OBJETIVO GENERAL
 
-Verificar mediante la aplicación del Teorema de superposición, si los resultados obtenidos en los cálculos son iguales o similares con las medidas obtenidas en el simulador.
+Comprobar mediante el uso del analisis de circuitos por superposición, si los resultados obtenidos en los cálculos son iguales o similares con las medidas obtenidas en el laboratorio
 
 1.1 OBJETIVOS ESPECIFICOS
  
- -Aplicar el concepto del teorema de Superposición para obtener los valores corriente y voltaje del circuito, realizando las respectivas mediciones. 
+ - Analizar el circuito propuesto en la guia de laboratorios del parcial 2 a travez de superposicion y otros metodos de analisis de mallas como lo podria ser el analisis a traves de mallas para encontrar de manera matematica los valores que se desea buscar al medir el circuito con un multimetro
  
- -
--  
+ - Examinar el circuito mediante el uso de multimetros los valores que se proponen en la guia de laboratorio y verificar que los datos medidos sean semejantes a los datos calculados y si es posible encontrar el error de cada una de las mediciones.
+
+
   2. MARCO TEORICO
 
 ![](https://user-images.githubusercontent.com/84998005/125558643-cc98de63-790f-49d8-bc23-428885f02d58.png)
@@ -64,12 +65,13 @@ Verificar mediante la aplicación del Teorema de superposición, si los resultad
 
   6. CONCLUSIONES
     
-  -Debido a que el manejo de decimales con los que puede trabajar un simulador o un programa informatico para la resolucion de sistemas de ecuaciones o para mediciones no es regulable en ciertos programas la variacion de errores sera mayor puesto que en los calculos matematicos se usa por lo general 2 decimales de aproximacion.   
+  - Debido a que el manejo de decimales con los que puede trabajar un simulador o un programa informatico para la resolucion de sistemas de ecuaciones o para mediciones no es regulable en ciertos programas la variacion de errores sera mayor puesto que en los calculos matematicos se usa por lo general 2 decimales de aproximacion.   
 
 - El teorema de superposicion es de gran utilidad  para analizar corrientes y voltajes con  dos o mas fuentes  ya que al analizar  fuente por fuente el analisis sera mas facil de analizar y eso se pudo apreciar al momento de  obtener los datos  mediante  la simulacion del circuito.
 
-- 
+
 
 7. BIBLIOGRAFIA
 
 - Kasatkin, A. S., Nemtsov, M. V. (1983). Electrotejnika. Moscú: Energoatomizdat
+- - Boylestad, R. (2011). Introducción al análisis de circuitos. México: Pearson Education    http://etm2021.com/sbiblioteca/Libros/ELECTRICIDAD%20Y%20MAQUINAS%20ELECTRICAS/INTRODUCCION%20AL%20ANALISIS%20DE%20CIRCUITOS%20-%20Boylestad.pdf
