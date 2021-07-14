@@ -16,6 +16,13 @@
 
 ![](https://user-images.githubusercontent.com/84998013/125549588-3b177487-1a57-404f-a6d2-5d18f09cb362.png)
 
+- Para realizar la medicion de la caida de voltaje en la resistencia se  conecta el multimetro en paralelo
+
+- Para calcular la corriente que fluye a travez de la resistencia se conecta el multimetro en serie
+
+- Para calcular el voltaje con el teorema de superposicion  se reemplaza la fuente de voltaje por un cortocircuito 
+
+-El resultado final es la suma de los resultados individuales.
 
 3.1 MATERIALES
     
