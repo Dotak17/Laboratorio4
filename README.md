@@ -63,7 +63,6 @@
 
 - El teorema de superposicion es de gran utilidad  para analizar corrientes y voltajes con  dos o mas fuentes  ya que al analizar  fuente por fuente el analisis sera mas facil de analizar y eso se pudo apreciar al momento de  obtener los datos  mediante  la simulacion del circuito.
 
-
-  7. BIBLIOGRAFIA
+7. BIBLIOGRAFIA
 
 - Kasatkin, A. S., Nemtsov, M. V. (1983). Electrotejnika. Moscú: Energoatomizdat
