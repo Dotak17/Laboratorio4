@@ -2,9 +2,12 @@
 
   1. OBJETIVO GENERAL
 
+Verificar mediante la aplicación del Teorema de superposición, si los resultados obtenidos en los cálculos son iguales o similares con las medidas obtenidas en el simulador.
+
 1.1 OBJETIVOS ESPECIFICOS
  
- -
+ -Aplicar el concepto del teorema de Superposición para obtener los valores corriente y voltaje del circuito, realizando las respectivas mediciones. 
+ 
  -
 -  
   2. MARCO TEORICO
